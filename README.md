@@ -12,7 +12,7 @@
 
 [Dong Z, Xie W, Chen H, et al. Copy‐number variants detection by low‐pass whole‐genome sequencing[J]. Current Protocols in Human Genetics, 2017, 94(1): 8.17. 1-8.17. 16.](https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cphg.43) 
 
-3.  low pass WGS对于CNV的检测解析度有限，所以设置滑动窗口可以设置为：50kb
+3.  low pass WGS对于CNV的检测解析度有限，所以设置滑动窗口可以设置为：20kb
 
 4.  研究表面对于小于3M的CNV解析精度78.57%,对于大于3M的精度可达到100%
 
